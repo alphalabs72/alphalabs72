@@ -2,7 +2,15 @@
 <h3 align="center">💥 Energetic Full Stack Mobile Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alphalabs72&label=Profile%20views&color=0e75b6&style=flat" alt="alphalabs72" /> </p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphalabs72&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
 
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alphalabs72&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -57,13 +65,4 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
     </a>
 </p>
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphalabs72&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphalabs72&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
 
