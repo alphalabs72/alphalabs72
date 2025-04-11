@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋, I'm Minn Ko
+![Profile views](https://komarev.com/ghpvc/?username=alphalabs72&color=blueviolet)
+
+
+💥 Energetic Full Stack Mobile Developer
 
 <!--
 **alphalabs72/alphalabs72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
