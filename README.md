@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A L P H A</h1>
-<h3 align="center">💥 Energetic Full Stack Mobile Developer</h3>
+<h3 align="center">💥 Energetic Fullstack Native Mobile Apps Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alphalabs72&label=Profile%20views&color=0e75b6&style=flat" alt="alphalabs72" /> </p>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
