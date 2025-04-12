@@ -5,12 +5,6 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alphalabs72&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
-
-<h2 align="center">📈 Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alphalabs72&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
