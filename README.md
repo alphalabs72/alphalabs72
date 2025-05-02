@@ -50,7 +50,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
+        <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Adobe Photoshop" width="50" height="50" />
     </a>
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Postman_logo_2022.svg" alt="postman" width="50" height="50"/>
